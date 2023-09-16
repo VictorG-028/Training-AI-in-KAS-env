@@ -4,8 +4,24 @@
 
 # RL DQN and PPO in KAS environment with image observation
 
-![DQN playing GIF](https://github.com/VictorG-028/Training-AI-in-KAS-env/blob/main/output/gif/DQN_880_playing.gif)
-![PPO playing GIF](ohttps://github.com/VictorG-028/Training-AI-in-KAS-env/blob/main/output/gif/PPO_100_playing.gif)
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+    <div style="text-align: center; width: 25%;">
+        <img 
+            src="https://github.com/VictorG-028/Training-AI-in-KAS-env/blob/main/output/gif/DQN_880_playing.gif" 
+            alt="DQN playing GIF" 
+            width="25%"
+        >
+        <p>DQN playing GIF</p>
+    </div>
+    <div style="text-align: center; width: 25%;">
+        <img 
+            src="https://github.com/VictorG-028/Training-AI-in-KAS-env/blob/main/output/gif/PPO_100_playing.gif" 
+            alt="PPO playing GIF" 
+            width="25%"
+        >
+        <p>PPO playing GIF</p>
+    </div>
+</div>
 
 # Informação relevante para o uso futuro da RAY[rllib]
 
