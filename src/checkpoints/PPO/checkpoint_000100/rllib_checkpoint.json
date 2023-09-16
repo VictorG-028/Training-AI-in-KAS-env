@@ -1,0 +1,1 @@
+{"type": "Algorithm", "checkpoint_version": "1.2", "format": "cloudpickle", "state_file": "C:\\Users\\victo\\ray_results\\PPO_V1\\PPO_knights_archers_zombies_v10_5a3bd_00000_0_2023-09-01_01-31-00\\checkpoint_000100\\algorithm_state.pkl", "policy_ids": ["default_policy"], "ray_version": "2.6.3", "ray_commit": "8a434b4ee7cd48e60fa1531315d39901fac5d79e"}

@@ -1,0 +1,68 @@
+- Classroom
+https://classroom.google.com/c/NjEyMTY4NjExODA1/a/NjEyMTY4NjExODMy/details
+https://classroom.google.com/c/NjEyMTY4NjExODA1/a/NjE3MzE0NzU4OTcz/details
+
+- GitHub da disciplina
+https://github.com/pablo-sampaio/rl_facil
+https://github.com/pablo-sampaio/rl_facil/blob/main/util/plot.py
+https://github.com/pablo-sampaio/rl_facil/blob/main/cap06/cap06-main-2.ipynb
+
+- GitHub relacionados com o projeto
+https://github.com/ray-project/ray/releases/tag/ray-2.6.3
+https://github.com/Farama-Foundation/SuperSuit
+https://github.com/Farama-Foundation/Gymnasium/releases/tag/v0.29.1
+https://github.com/Farama-Foundation/PettingZoo
+
+- ChatGPT
+https://chat.openai.com/?model=text-davinci-002-render-sha
+
+- Anaconda
+https://learning.anaconda.cloud/conda-basics
+https://saturncloud.io/blog/updating-python-to-a-specific-version-using-conda-a-guide/
+https://docs.anaconda.com/free/anacondaorg/user-guide/
+https://medium.com/@udiyosovzon/how-to-activate-conda-environment-in-vs-code-ce599497f20d
+https://www.google.com/search?q=how+to+remove+conda+virtual+env&oq=how+to+remove+conda+virtual+env&aqs=edge..69i57j0i22i30l3.7897j0j1&sourceid=chrome&ie=UTF-8
+
+- Gynasium enviroments
+https://gymnasium.farama.org/
+https://gymnasium.farama.org/environments/third_party_environments/
+
+- PettingZoo enviroments
+https://pettingzoo.farama.org/environments/butterfly/
+https://pettingzoo.farama.org/environments/butterfly/knights_archers_zombies
+https://pettingzoo.farama.org/environments/butterfly/cooperative_pong
+
+- Gymnasium how to make custom environment
+https://gymnasium.farama.org/tutorials/gymnasium_basics/environment_creation/
+https://gymnasium.farama.org/api/env/
+
+- RAY[rllib] with PettingZoo
+https://pettingzoo.farama.org/tutorials/rllib/
+https://pettingzoo.farama.org/tutorials/rllib/pistonball/
+    https://github.com/ray-project/ray/pull/34696
+https://docs.ray.io/en/latest/rllib/index.html
+
+- RAY
+https://docs.ray.io/en/master/rllib/rllib-algorithms.html#dqn
+https://docs.ray.io/en/latest/tune/examples/tune_analyze_results.html
+https://docs.ray.io/en/latest/tune/tutorials/tune-trial-checkpoints.html
+https://github.com/ray-project/ray/issues/7983
+https://docs.ray.io/en/releases-1.12.1/tune/tutorials/tune-lifecycle.html
+
+    + RAY como definir quantas CPUs usar
+    https://discuss.ray.io/t/most-efficient-way-to-use-only-a-cpu-for-training/1762
+    + Como usar CheckpointConfig em vez de checkpoint_freq
+    https://docs.ray.io/en/latest/train/config_guide.html?highlight=CheckpointConfig#checkpoint-configurations-in-train-checkpointconfig
+    https://docs.ray.io/en/latest/ray-air/api/doc/ray.air.CheckpointConfig.html#ray.air.CheckpointConfig
+    + Como resumir experimento
+    https://discuss.ray.io/t/correct-way-of-resuming-trials/1216
+    https://discuss.ray.io/t/train-when-resuming-training-a-new-trial-directory-is-created-even-when-resuming-from-checkpoint/7672
+    + RAY otimização de parâmetros
+    https://docs.ray.io/en/releases-1.12.1/tune/key-concepts.html#search-spaces
+    + Usar RAY como otimizador no lugar do optuna
+    https://discuss.ray.io/t/passing-configuration/11458
+    + RAY com curriculum learning
+    https://github.com/ray-project/ray/blob/master/rllib/examples/curriculum_learning.py
+    + Como usar custom CNN (registrar e colocar na config)
+    https://docs.ray.io/en/latest/rllib/rllib-models.html
+    https://discuss.ray.io/t/how-to-use-custom-model-in-multiagent-ppo-policy/10246
