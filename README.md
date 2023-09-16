@@ -1,11 +1,11 @@
 # Setup Video
 
-![Tutorial Setup RAY RL project](https://youtu.be/nsfjjUV5dvs)
+[Tutorial Setup RAY RL project](https://youtu.be/nsfjjUV5dvs)
 
 # RL DQN and PPO in KAS environment with image observation
 
-![DQN playing GIF](output/gif/DQN_playing.gif)
-![PPO playing GIF](output/gif/PPO_playing.gif)
+![DQN playing GIF](https://github.com/VictorG-028/Training-AI-in-KAS-env/blob/main/output/gif/DQN_880_playing.gif)
+![PPO playing GIF](ohttps://github.com/VictorG-028/Training-AI-in-KAS-env/blob/main/output/gif/PPO_100_playing.gif)
 
 # Informação relevante para o uso futuro da RAY[rllib]
 
